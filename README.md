@@ -1,9 +1,9 @@
 Online Store Management System (SQL)
 
---Project Overview
+-Project Overview
 This project involves the design and implementation of a comprehensive relational database for an E-commerce platform. The system manages the entire workflow of an online store—from inventory and supplier management to customer orders, payment processing, and shipping logistics.
 
-- Database Architecture
+-Database Architecture
 The project demonstrates a high level of data normalization and relational design, featuring 8 interconnected tables:
 
 Customers: Management of user profiles and registration data.
@@ -18,7 +18,7 @@ Payments: Financial transaction logging with specific payment method constraints
 
 Shipping: Logistics and tracking integration.
 
-- Technical Skills Demonstrated
+-Technical Skills Demonstrated
 Schema Design: Creating structured tables with appropriate data types (VARCHAR, INT, MONEY, DATETIME).
 
 Data Integrity: Implementation of PRIMARY KEY, IDENTITY columns, and UNIQUE constraints.
@@ -29,7 +29,7 @@ Business Logic: Implementation of CHECK constraints (e.g., validating order stat
 
 Data Seeding: Populating the database with realistic sample data for testing and demonstration.
 
-- Getting Started
+-Getting Started
 To replicate the database environment:
 
 Ensure you have SQL Server (SSMS) or a compatible SQL environment installed.
