@@ -1,9 +1,11 @@
 Online Store Management System (SQL)
 
 -Project Overview
+
 This project involves the design and implementation of a comprehensive relational database for an E-commerce platform. The system manages the entire workflow of an online store—from inventory and supplier management to customer orders, payment processing, and shipping logistics.
 
 -Database Architecture
+
 The project demonstrates a high level of data normalization and relational design, featuring 8 interconnected tables:
 
 Customers: Management of user profiles and registration data.
